@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Umesh Makwana
+#  Hi , I'm Umesh Makwana
 
 🔭 Working on: Learning Full Stack Web Development  
 🌱 Learning: Java | PHP | SQL | React.js     

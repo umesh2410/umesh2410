@@ -1,8 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalariya%20Parthiv&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=wave&height=60&section=body&color=000000cc&text=Hi%20there%2C%20Welcome%20to%20my%20profile!&fontSize=20&fontColor=CCCCCC&animation=fadeIn"
+    alt="Greeting Subtext"
+  />
 </div>
 
-#  Hi , I'm Umesh Makwana
 
 🔭 Working on: Learning Full Stack Web Development  
 🌱 Learning: Java | PHP | SQL | React.js     

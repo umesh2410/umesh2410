@@ -5,15 +5,13 @@
   />
 </div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=umesh2410&color=blue&style=flat)
-
-
 # I'm Mawkana Umesh
 
 🔭 Working on: Learning Full Stack Web Development  
 🌱 Learning: Java | PHP | SQL | React.js     
 📫 Reach me: makwanau2410@gmail.com   
 👨‍💻 All of my projects are available at https://umesh2410.github.io/Portfolio/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umesh.r.makwana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/umesh_2410) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makwanau2410@gmail.com) 

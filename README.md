@@ -10,7 +10,6 @@
 🔭 Working on: Learning Full Stack Web Development  
 🌱 Learning: Java | PHP | SQL | React.js     
 📫 Reach me: makwanau2410@gmail.com   
-👨‍💻 All of my projects are available at https://umesh2410.github.io/Portfolio/
 
 
 ## 🌐 Socials:
